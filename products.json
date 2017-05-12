@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "productName": "Sampon",
+    "price": 10.0
+  },
+  {
+    "id": 2,
+    "productName": "Apa plata 2L",
+    "price": 3.5
+  },
+  {
+    "id": 3,
+    "productName": "Geaca de piele",
+    "price": 99.9
+  },
+  {
+    "id": 4,
+    "productName": "Monopoly",
+    "price": 120.99
+  },
+  {
+    "id": 5,
+    "productName": "Jack Daniela 0.75L",
+    "price": 150
+  },
+  {
+    "id": 6,
+    "productName": "Pepsi 2L",
+    "price": 6.5
+  }
+]
